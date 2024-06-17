@@ -38,8 +38,8 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
 <hr />
 <p>
   <h2>Result</h2>
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/new.gif" width=380px height=250px align='left'>
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
+<img src="https://github.com/Sudhanshu-Patil/Snakeai/blob/main/Images/initial.gif" width=380px height=250px align='left'>
+<img src="https://github.com/Sudhanshu-Patil/Snakeai/blob/main/Images/100%20epochs.gif" width=380px height=250px align='right'>
 <br><br><br><br><br><br><br><br><br><br><br>
 <p style="font-size:25px">
 <pre>              <b> Initial Epochs</b>                                           <b>After 100<sup>th</sup> Epochs</b></pre>
